@@ -1,0 +1,13 @@
+div{
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+}
+
+ul{
+    background-color: palevioletred;
+}
+
+li{
+    background-color: yellowgreen;
+}
